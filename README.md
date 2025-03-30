@@ -1,0 +1,2 @@
+# bot
+using ollama local 
